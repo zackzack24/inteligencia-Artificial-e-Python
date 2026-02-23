@@ -22,7 +22,7 @@
 
 #### Turing era um homem à frente de seu tempo, mas também solitário e excêntrico. Em 1952, foi condenado por homossexualidade e submetido a castração química, o que o levou à depressão. Morreu em 1954, aparentemente por suicídio. Em 2009, o governo britânico pediu desculpas públicas, e em 2013 recebeu perdão real.
 
-## Legado:
+# Legado:
 
 #### Sua visão de máquinas que pensam lançou as bases para toda a ciência da computação e para a inteligência artificial que exploramos hoje.
 
