@@ -187,6 +187,8 @@ saida = neuronio.forward(entrada)
 print(f"Saída do neurônio: {saida:.4f}")
 ```
 
+<p align="center">
+
 | Década | Linguagem | 	Principal Contribuição para IA |
 | :---: | :---: | :---: |
 | 1950s | Assembly/Fortran | Primeiros programas, computação científica |
@@ -196,6 +198,7 @@ print(f"Saída do neurônio: {saida:.4f}")
 | 1990s | Python/Java | Machine Learning começa a florescer  |
 | 2000s | Python/TensorFlow | Deep Learning e IA moderna |
 
+</p>
 
 
 </p>
